@@ -1,4 +1,6 @@
 # INFO6150 Week 1 Assignments
+Due by the beginning of class, week 2 (May 15).
+You may revise up to 2 times by the beginning of class, week 3 (May 22).
 
 1. Send me an email with 4 **different** websites:
 
