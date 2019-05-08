@@ -61,6 +61,6 @@ Explain your choices with principles discussed in lecture
     </tr>
   </tbody>
   <tfoot>
-    <td colspan="5">Total: </td>
+    <td colspan="5">Total: 10</td>
   </tfoot>
 </table>
