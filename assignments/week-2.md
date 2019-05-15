@@ -31,7 +31,8 @@ Send an email to Anitha at lakshmanan.t@husky.neu.edu with your work for #1 and 
     </tr>
     <tr>
       <td>Wireframe</td>
-      <td colspan="2">Wireframe is complete and seems to represent website homepage</td>
+      <td>Wireframe is complete and seems to represent website homepage</td>
+      <td>Wireframe is complete but only somewhat seems to represent website homepage</td>
       <td>Wireframe is not complete and/or does not seem to represent website homepage</td>
     </tr>
   </tbody>
