@@ -32,3 +32,29 @@ git push origin week-3
 
 ## send an email 
 Email Anitha at lakshmanan.t@husky.neu.edu with a link to your seainfo6150-webapp fork. 
+
+
+<table>
+  <caption>Rubric</caption>
+  <tbody>
+    <tr>
+      <td>Created and saved assignment to week-3 branch</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Semantic, properly marked-up article</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Valid HTML</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>App runs and displays article properly</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <td colspan="2">Total: 10</td>
+  </tfoot>
+</table>
