@@ -55,6 +55,7 @@ Email Anitha at lakshmanan.t@husky.neu.edu with a link to your seainfo6150-webap
     </tr>
   </tbody>
   <tfoot>
-    <td colspan="2">Total: 10</td>
+    <td>Total:</td>
+    <td>10</td>
   </tfoot>
 </table>
