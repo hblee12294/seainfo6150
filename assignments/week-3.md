@@ -1,4 +1,6 @@
 # INFO6150 Week 3 Assignments
+Due by the beginning of class, week 4 (May 29).
+You may revise up to 2 times by the beginning of class, week 5 (June 5).
 
 This week you will be practicing working in the web app, creating a branch and marking up text with HTML!
 
