@@ -22,9 +22,7 @@ Lady Liberty was a gift from France to the United States to celebrate the centen
 
 Since then, the statue has served as a symbol of hope and possibility for many people who entered the United States as immigrants via neighboring Ellis Island.
 
-"The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy," says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit was bolstered by the decision to inscribe Emma Lazarus' poem "The New Colossus" on the statue's pedestal, which gave Lady Liberty one of her nicknames, "Mother of Exiles."
-
-The most famous lines in the poem are: "Give me your tired, your poor / Your huddled masses yearning to breathe free."
+"The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy," says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit inspired the decision to inscribe these famous lines on the statue's pedestal: "Give me your tired, your poor / Your huddled masses yearning to breathe free."
 
 In 2017, nearly 4.5 million people visited Liberty Island.
 
