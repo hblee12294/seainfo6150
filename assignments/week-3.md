@@ -11,7 +11,7 @@ git checkout -b week-3
 ```
 
 2. Copy and paste text into App.js
-Copy and paste the news article from <a href="./week-3-article.md">assignments/week-3-article.md</a> into App.js as shown in <a href="./week-3-paste-screenshot.png">this screenshot</a>. 
+Copy and paste the news article from <a href="./week-3-article.md">assignments/week-3-article.md</a> into App.js as shown in <a href="./week-3-paste-text.png">this screenshot</a>. 
 
 3. Start the webapp
 ```
