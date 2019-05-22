@@ -22,7 +22,8 @@ npm start
 ## add HTML
 Mark up the news article with valid, semantically-appropriate HTML. Consider block level and inline HTML elements, what kind of text this is and how you should properly cite the author, properly display the date, email address etc. Make sure to validate your text with an HTML validator like http://validator.w3.org!
 
-## save and commit your work to the week-3 branch and push to your fork
+## save it 
+save and commit your work to the week-3 branch and push to your fork
 ```
 git add . 
 git commit -m "[your commit message]"
