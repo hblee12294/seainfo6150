@@ -1,6 +1,6 @@
-The Statue of Liberty's torch heads to new museum
-by Kate Farley (kate.farley@nytimes.com)
-November 22, 2018
+The Statue of Liberty's torch heads to new museum  
+by Kate Farley (kate.farley@nytimes.com)  
+November 22, 2018  
 
 The Statue of Liberty's original torch is getting a new home.
 
