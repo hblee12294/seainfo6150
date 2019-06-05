@@ -1,0 +1,113 @@
+
+/* @import url('https://fonts.googleapis.com/css?family=Slabo+27px'); */
+
+body {
+  font-family: "Slabo 27px", serif;
+}
+
+p.some-classname {
+  padding: 20px;
+  border: 1px solid black;
+}
+
+p span {
+  background-color: orange;
+  margin-top: 500px;
+  height: 1000px;
+  display: none;
+}
+p[data-foo] {
+  color: purple;
+}
+p:first-letter {
+  font-size: 5em;
+}
+
+.text-decoration-example {
+  text-decoration: green dashed underline;
+}
+
+#ordered-list {
+  list-style-type: upper-roman;
+}
+#unordered-list {
+  background-color: rgba(255, 0, 0, 1);
+  border-style: solid;
+  border-color: black;
+  border-width: 10px;
+  border-radius: 30px/70px;
+  padding: 50px;
+  list-style-position: outside;
+  font-weight: bold;
+  /* float: left; */
+}
+#unordered-list li {
+  background-color: #ccc;
+}
+#unordered-list:after {
+  content: "this comes after the ul";
+}
+
+.highlight {
+  font-size: 3em !important;
+}
+.important {
+  font-size: 2em;
+}
+
+#borderbox {
+  width: 600px;
+  border: 1px solid red;
+  margin: 50px;
+  padding: 0;
+  overflow: auto;
+}
+#borderbox > div {
+  margin: 0;
+  padding: 20px;
+  width: 200px;
+  border: 1px solid blue;
+  float: left;
+  box-sizing: content-box;
+}
+
+#uppercase { text-transform: uppercase; }
+#lowercase { text-transform: lowercase; }
+#capitalize { text-transform: capitalize; }
+
+#html-entities {
+  font-size: 5em;
+}
+
+#zindex {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100px;
+  width: 100px;
+}
+
+#zindex > div {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+}
+
+.red {
+  background-color: red;
+  right: 20px;
+  top: 20px;
+  z-index: 2;
+}
+.green {
+  background-color: green;
+  right: 40px;
+  top: 40px;
+  z-index: 1;
+}
+.blue {
+  background-color: blue;
+  right: 60px;
+  top: 60px;
+  z-index: 3;
+}
