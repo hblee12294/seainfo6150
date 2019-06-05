@@ -7,19 +7,36 @@
       p {
         background-color: yellow;
         color: red;
-        font-style: oblique;
       }
     </style>
     <link rel="stylesheet" href="./styles.css" />
     <!-- <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet"> -->
   </head>
   <body>
+    <!-- Inline styles -->
+    <div style="padding: 10rem; border: 1px solid red;">Padded</div>
+
+    <!-- hidden -->
+    <div class="hidden">
+      This is not visible
+    </div>
+
+    <!-- display -->
+    <div class="display">
+      <div id="block">Block</div>
+      <div id="inline">Inline</div>
+      <div id="inline-block">Inline-block</div>
+      <div id="none">None</div>
+    </div>
+
+    <!-- box sizing -->
     <div id="borderbox">
       <div>box 1</div>
       <div>box 2</div>
       <div>box 3</div>
     </div>
 
+    <!-- list -->
     <ol id="ordered-list" class="highlight important">
       <li>Foo</li>
       <li>Bar</li>
@@ -27,6 +44,7 @@
       <li>Bleem</li>
       <li>Bort
 
+        <!-- :after styles -->
         <ul id="unordered-list">
           <li>one</li>
           <li>two</li>
@@ -35,6 +53,7 @@
       </li>
     </ol>
 
+    <!-- text styles -->
     <p>
       <span>Lorem</span> <span>ipsum</span> dolor sit amet, consectetur
       adipiscing elit. Mauris est sem, pretium eu volutpat at, posuere quis
@@ -46,7 +65,7 @@
       ac dolor pretium molestie eu vel eros.
     </p>
 
-    <p>
+    <p class="text-decoration-example">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris est sem,
       pretium eu volutpat at, posuere quis velit. Praesent non elit ac quam
       vulputate imperdiet. Praesent ipsum nulla, convallis vel sem in, accumsan
@@ -54,27 +73,51 @@
       ultricies velit et tempor maximus. Proin ac elit erat. Nulla facilisi.
       Nullam rutrum turpis eget nulla cursus, luctus luctus dolor tempus.
       Quisque sit amet tempus augue. Proin vel risus ac dolor
-      <span class="text-decoration-example">pretium molestie eu vel eros</span>.
     </p>
 
+    <p id="line-height">
+      Line height example
+    </p>
+
+    <!-- attribute selectors -->
     <p data-foo="bar">
       Praesent ipsum nulla, convallis vel sem in, accumsan consequat ex. Mauris
       molestie augue a justo pretium dapibus. Mauris ultricies velit et tempor
       maximus.
     </p>
 
+    <!-- text transformations -->
     <div>
         <p id="uppercase">uppercase</p>
         <p id="lowercase">LOWERCASE</p>
         <p id="capitalize">capitalize</p>
       </div>
 
+    <!-- html entities -->
     <section id="html-entities">
       <header>HTML entities</header>
       &copy;, &clubsuit;
     </section>
 
 
+    <!-- position -->
+    <div class="position">
+      <div id="float">Float</div>
+      <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris est sem,
+          pretium eu volutpat at, posuere quis velit. Praesent non elit ac quam
+          vulputate imperdiet. Praesent ipsum nulla, convallis vel sem in, accumsan
+          consequat ex. Mauris molestie augue a justo pretium dapibus. Mauris
+          ultricies velit et tempor maximus. Proin ac elit erat. Nulla facilisi.
+          Nullam rutrum turpis eget nulla cursus, luctus luctus dolor tempus.
+          Quisque sit amet tempus augue. Proin vel risus ac dolor
+        </p>      
+
+      <div id="absolute">Absolute</div>
+      <div id="fixed">Fixed</div>
+    </div>
+
+    <!-- z index -->
     <div id="zindex">
         <div class="red">red</div>
         <div class="green">green</div>
