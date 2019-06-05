@@ -35,7 +35,7 @@ The article data should be marked up in the list item with valid, semantically-a
 Create a new functional component in `ArticleList` named `ArticleList.jsx`, with the appropriate valid, semantically-correct containing HTML to create an unordered list.
 
 `ArticleList` must accept this 1 prop:
-* articles: all the news articls being passed from `src/App.js`
+* articles: all the news articles being passed from `src/App.js`
 
 
 Copy and paste the following block of code between your unordered list tags to output each of the articles as an `ArticleListItem` component. **You must add the required props from `article` to pass into `ArticleListItem`!**
@@ -65,7 +65,7 @@ npm start
 ```
 
 ## save it 
-save and commit your work to the week-4 branch and push to your fork
+save and commit your work to the week-5 branch and push to your fork
 ```
 git add . 
 git commit -m "[your commit message]"
