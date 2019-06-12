@@ -29,9 +29,6 @@ Your component must be named `ArticleList/ArticleImage.js` and must accept 2 pro
 
 Your image must have semantically-valid, accessible HTML. Style the image in the article as shown in <a href="./week-6-list.png">this screenshot</a> using a CSS module created for the ArticleImage component.
 
-Note: because you are writing this in the React app, HTML attributes work slightly differently. Most relevant for this assignment, you will use the following attribute for one of your tags:
-`altText={title}` (note the camelCase syntax)
-
 ## use the article image component
 
 In the appropriate component, import and use the new `ArticleImage.js` so that each article is displayed with its image as shown in as shown in <a href="./week-6-list.png">this screenshot</a>.
