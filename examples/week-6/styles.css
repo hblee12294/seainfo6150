@@ -20,7 +20,7 @@ body {
 }
 
 #background-firefox-png {
-  background-image: url(firefox.png), url(../images/tree-frog.jpg);
+  background-image: url(firefox.png), url(treefrog.jpg);
   background-repeat: no-repeat, repeat-x;
 }
 
