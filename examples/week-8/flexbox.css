@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+.flex-container {
+  display: flex;
+  /* width: 50rem; */
+  height: 50rem;
+  border: 1px solid #000;
+}
+
+.flex-container > div {
+  background: #ccc;
+  border: 1px solid #999;
+  padding: 3rem;
+  text-align: center;
+}
+
+#flex1 {
+  flex-flow: row wrap;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
+#box1 {
+  order: 5;
+  align-self: center;
+  flex: 0 1 20rem;
+}
+#box2 {
+  order: 3;
+  flex-grow: 5;
+}
+#box3 {
+  order: 4;
+  flex-grow: 2;
+}
+#box4 {
+  order: 2;
+  flex-grow: 1;
+}
+#box5 {
+  order: 1;
+}
